@@ -1,5 +1,5 @@
 import NavBar from "../../components/searchBar/SearchBar";
-import PokemonCard from "../../components/pokemonCard/PokemonCard";
+import PokemonCard from "../../components/pokemonCards/PokemonCards";
 import { Container } from "@mui/material";
 import { Grid } from "@mui/material";
 
